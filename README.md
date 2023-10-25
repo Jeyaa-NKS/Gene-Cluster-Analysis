@@ -14,3 +14,9 @@ Feature Scaling: Standardization (scaling) of the features was performed to ensu
 ## Exploratory Data Analysis
 
 Principal Component Analysis (PCA): PCA was applied to reduce the dimensionality of the data while retaining 90% of the explained variance. The cumulative explained variance was visualized.
+
+## Machine Learning Models
+
+Decision Tree Classifier: A decision tree classifier was trained with a maximum depth of 3 and a minimum of 5 samples per leaf. It achieved an accuracy of 90%.
+
+Random Forest Classifier: A random forest classifier with 100 estimators was trained and achieved an accuracy of 75%.
