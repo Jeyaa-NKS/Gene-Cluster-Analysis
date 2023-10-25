@@ -20,3 +20,7 @@ Principal Component Analysis (PCA): PCA was applied to reduce the dimensionality
 Decision Tree Classifier: A decision tree classifier was trained with a maximum depth of 3 and a minimum of 5 samples per leaf. It achieved an accuracy of 90%.
 
 Random Forest Classifier: A random forest classifier with 100 estimators was trained and achieved an accuracy of 75%.
+
+## Hierarchical Clustering
+
+Dendrogram: A hierarchical clustering analysis was performed, and a dendrogram was generated to visualize the relationships between genes based on their expression profiles.
