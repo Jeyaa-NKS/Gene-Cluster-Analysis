@@ -10,3 +10,7 @@ Data Loading: The project began with loading the gene expression data from the p
 Data Cleaning: Data cleaning involved checking for missing values, handling object features, and extracting numerical features. The datasets were merged and split into training and test sets.
 
 Feature Scaling: Standardization (scaling) of the features was performed to ensure that each feature has a mean of 0 and a standard deviation of 1.
+
+## Exploratory Data Analysis
+
+Principal Component Analysis (PCA): PCA was applied to reduce the dimensionality of the data while retaining 90% of the explained variance. The cumulative explained variance was visualized.
